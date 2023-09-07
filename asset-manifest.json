@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PrinceBhatia24/To-Do_List.git/static/css/main.c142b944.css",
+    "main.js": "/PrinceBhatia24/To-Do_List.git/static/js/main.3c9fffc9.js",
+    "static/js/787.c6a9a21d.chunk.js": "/PrinceBhatia24/To-Do_List.git/static/js/787.c6a9a21d.chunk.js",
+    "index.html": "/PrinceBhatia24/To-Do_List.git/index.html",
+    "main.c142b944.css.map": "/PrinceBhatia24/To-Do_List.git/static/css/main.c142b944.css.map",
+    "main.3c9fffc9.js.map": "/PrinceBhatia24/To-Do_List.git/static/js/main.3c9fffc9.js.map",
+    "787.c6a9a21d.chunk.js.map": "/PrinceBhatia24/To-Do_List.git/static/js/787.c6a9a21d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c142b944.css",
+    "static/js/main.3c9fffc9.js"
+  ]
+}
